@@ -1,1 +1,1 @@
-<img width="3316" height="1024" alt="image" src="https://github.com/user-attachments/assets/086edf23-4875-4c72-a964-6dc495864121" />
+<img width="1280" height="400" alt="TrucklineMP Banner" src="https://github.com/user-attachments/assets/127a6c1a-312e-4029-8b12-e73c6f721523" />
